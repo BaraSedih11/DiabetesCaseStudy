@@ -12,9 +12,10 @@
   
 </div>
 
-This repository contains a training and prediction model, along with tuning and testing, to identify the best estimators and features for our dataset.
+This repository contains a comprehensive analysis and model implementation for predicting diabetes using machine learning techniques. It includes data preprocessing, model training, hyperparameter tuning, and evaluation of various regression metrics.
 
 ## Introduction
+This project aims to identify the best estimators and features for predicting diabetes outcomes based on the provided dataset. The analysis is performed using Python and several data science libraries.
 
 
 ## Contents
@@ -43,18 +44,18 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/BaraSedih11/finding_donors.git
+git clone https://github.com/BaraSedih11/DiabetesCaseStudy.git
 ```
 
 2. Navigate to the repository directory:
 
 ```bash
-cd Regression Metrics
+cd DiabetesCaseStudy
 ```
 
-3. Open and run the Jupyter Notebook `Regression Metrics.ipynb` using Jupyter Notebook or JupyterLab.
+3. Open and run the Jupyter Notebook `jupyter notebook Regression\ Metrics.ipynb`.
 
-4. Follow along with the code and comments in the notebook to understand how many regression metrics evaluates and training and tuning is implemented using Python.
+4. Follow along with the code and comments in the notebook to understand the implementation of regression metrics, model training, and hyperparameter tuning using Python.
 
 
 ## Acknowledgements
